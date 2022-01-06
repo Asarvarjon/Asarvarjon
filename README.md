@@ -33,6 +33,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asarvarjon&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)[![Header](https://github.com/Doniyor27/Doniyor27/blob/main/assets/doniyor27.png)](https://t.me/doniyor_27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
  

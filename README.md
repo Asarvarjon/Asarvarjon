@@ -9,7 +9,8 @@ I am Node.js Engineer with 2 years of experience. I'm focused on building produc
 * 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [amriyevsarvarjon@yandex.com](mailto:amriyevsarvarjon@yandex.com)
 * 🧠  I'm learning Nest.js
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on interesting projects as Node.js developer
+* 🚀  I'm currently working on [Dizipro](https://diziproedu.uz/)
 
 <a href="https://www.github.com/asarvarjon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/asarvarjon?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>

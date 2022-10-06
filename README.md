@@ -1,4 +1,4 @@
-## Amriyev Sarvarjon | Web developer
+## Amriyev Sarvarjon | Node.js developer
 
 ### Languages and Tools
 

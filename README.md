@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Node.js Engineer
 ----------------
 
-I am Node.js Engineer with 2 years of experience. I'm focused on building products with Express.js, Typescript.
+I am Node.js Engineer with 3 years of experience. I'm focused on building products with Express.js, Typescript.
 
 * 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [amriyevsarvarjon@yandex.com](mailto:amriyevsarvarjon@yandex.com)
 * 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on interesting projects as Node.js developer
-* 🚀  I'm currently working on [Dizipro](https://diziproedu.uz/)
+* 🚀  I'm currently working on E-POS Systems
 
 <a href="https://www.github.com/asarvarjon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/asarvarjon?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
